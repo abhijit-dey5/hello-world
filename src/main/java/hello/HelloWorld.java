@@ -8,7 +8,7 @@ public class HelloWorld {
 		  System.out.println("The current local time is: " + currentTime);
 	    
 		  System.out.println("New Console Output is with latest changes");
-		  System.out.println("Another Console Output, new changes done");
+		  System.out.println("Another Console Output, new changes");
 
         Greeter greeter = new Greeter();
         System.out.println(greeter.sayHello());
